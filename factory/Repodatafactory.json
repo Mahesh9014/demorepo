@@ -1,0 +1,9 @@
+{
+	"name": "Repodatafactory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f2a1a42-17b0-40d5-8208-8a5decb8dddc",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
